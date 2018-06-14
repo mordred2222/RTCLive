@@ -3,11 +3,11 @@
     "largeIcon": "RTC-icon.png",
     "iconColor": "#ffffff",
     "icon": "RTC-icon-80x80.png",
-    "bgImage": "background.jpg",
     "main": "index.html",
+    "bgImage": "background.png",
     "id": "com.mordred2222.rtclive",
     "title": "Application",
     "type": "web",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "uiRevision":2
 }
